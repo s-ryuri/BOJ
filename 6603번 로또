@@ -37,5 +37,4 @@ void func(int p) {
 			check[i] = 0;
 		}
 	}
-
 }
