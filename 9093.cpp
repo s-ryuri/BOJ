@@ -25,4 +25,5 @@ int main() {
 			else s.push(sentence[j]);	
 		}
 	}
+	
 }
