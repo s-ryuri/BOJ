@@ -18,5 +18,6 @@ int main() {
 		}
 		result = max(result, sum);
 	} while (next_permutation(v.begin(), v.end()));
+	
 	cout << result;
 }
